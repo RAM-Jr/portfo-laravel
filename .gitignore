@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 /node_modules
 /public/hot
 /public/storage
@@ -14,11 +13,9 @@ npm-debug.log
 yarn-error.log
 /.idea
 /.vscode
-=======
 composer.phar
 /vendor/
 
 # Commit your application's lock file https://getcomposer.org/doc/01-basic-usage.md#commit-your-composer-lock-file-to-version-control
 # You may choose to ignore a library lock file http://getcomposer.org/doc/02-libraries.md#lock-file
 # composer.lock
->>>>>>> ed68d04648a2989931c5bca052fab7b27c36ea2a
