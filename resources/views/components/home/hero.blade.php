@@ -13,13 +13,19 @@
 
                     <ul class="flex flex-wrap items-center">
                         <li>
-                            <x-button-link href="#portifolio" variant="primary" class="rounded-lg">
+                            <x-button-link href="#portfolio" variant="dark" class="rounded-lg">
                                 My Projects
                             </x-button-link>
                         </li>
                     </ul>
 
                     {{-- Icons of some of my clients --}}
+                    <div class="flex flex-wrap justify-between items-center mt-4">
+                        <span class="inline-flex  text-xl dark:text-gray-200">
+                            Follow me on Social Media
+                        </span>
+                        <x-social-icons class="mb-0"></x-social-icons>
+                    </div>
 
                 </div>
             </div>
