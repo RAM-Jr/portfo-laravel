@@ -1,6 +1,6 @@
 <header
     x-data="{navbarOpen: false}"
-    class="fixed left-0 top-0 z-10 bg-sky-500 w-full flex items-center shadow-md dark:bg-slate-800 h-24"
+    class="fixed left-0 top-0 z-20 bg-sky-500 w-full flex items-center shadow-md dark:bg-slate-800 h-24"
 >
     <div class="container">
         <div class="flex -mx-4 items-center justify-between relative">
@@ -21,7 +21,7 @@
                         class="dark:hidden w-[48px] lg:w-[64px] inline-block"
                     >
 
-                    <span class="text-xl xl:text-2xl font-bold text-[#1e293b] dark:text-[#94a3b8]">RAMjr</span>
+                    <span class="text-xl xl:text-2xl font-bold text-[#1e293b] dark:text-[#94a3b8]">RAM-Jr</span>
 
 
                 </a>

@@ -1,30 +1,28 @@
 <?php
 
-namespace App\View\Components\layout;
+namespace App\View\Components\Forms;
 
 use Illuminate\View\Component;
 
-class NavbarItem extends Component
+class TextArea extends Component
 {
     /**
      * Create a new component instance.
      *
      * @return void
      */
- /*    public string $href; */
-
-    public function __construct(public string $href)
+    public function __construct()
     {
-        /* $this->href=$href; */
+        //
     }
 
     /**
      * Get the view / contents that represent the component.
      *
-     * @return
+     * @return \Illuminate\Contracts\View\View|\Closure|string
      */
     public function render()
     {
-        return view('Layout.navbar-item');
+        return view('components.forms.text-area');
     }
 }
