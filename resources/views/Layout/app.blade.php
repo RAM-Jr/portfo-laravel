@@ -5,9 +5,11 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Laravel</title>
+        <title>RAM-Jr</title>
 
         <meta name="csrf-token" content="{{ csrf_token() }}">
+
+        <link rel="icon" href="{{ url('/img/favicon.ico') }}">
 
         <!-- Fonts -->
         <link href="{{ secure_asset('/css/app.css') }}"  rel= "stylesheet">
