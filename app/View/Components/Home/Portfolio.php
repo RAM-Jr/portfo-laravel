@@ -26,7 +26,7 @@ class Portfolio extends Component
             [
                 'category'=>['HTML5','CSS3','Sass'],
                 'title'=>'Advanced CSS and Sass Webpage',
-                'image'=>url('/img/natours.png'),
+                'image'=>url('/img/natours.PNG'),
                 'github'=>'https://github.com/RAM-Jr/css-course-project'
             ],
             /* ['category'=>['Python','Flask','HTML5'],
