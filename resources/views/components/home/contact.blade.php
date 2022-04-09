@@ -168,7 +168,7 @@
                         </div>
 
                         <div class="mb-6">
-                            <x-forms.textarea rows="6" placeholder="Your Message"
+                            <x-forms.text-area rows="6" placeholder="Your Message"
                             name="message"
                             x-model="formData.message"
                             ::class="errors.message ? 'border-red-500 focus:border-red-500' : '' "
@@ -176,7 +176,7 @@
                             <template x-if="errors.message">
                                 <div x-text="errors.message[0]" class="text-red-900"></div>
                             </template>
-                        </x-forms.textarea>
+                        </x-forms.text-area>
                         </div>
                         <div>
                             <x-button class="w-full"
