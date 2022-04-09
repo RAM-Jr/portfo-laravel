@@ -20,15 +20,15 @@
                 <div class="mt-10 lg:mt-0">
                     <span class="font-semibold text-lg text-primary mb-2 block">
                         <blockquote class="text-sm text-gray-500 italic py-2 px-3 border-l-4 border-amber-500">
-                            "Know what you want, and you can get it"
+                            "Know what you want, and you can get it as long as you work hard enough"
                         </blockquote>
                     </span>
                     <h2 class="font-bold text-3xl sm:text-4xl dark:text-gray-200 mb-8">
                         About Me
                     </h2>
                     <p class="text-base dark:text-gray-400 mb-8">
-                        nsnfjsanofnspfmos.<br/>
-                        jkfnajsbf ajsnfhjedsfjnjsdbfaskfnasjfnkjdnkfnsfjs.<br/>
+                        I have been studying at Eduardo Mondlane University for some years.<br/>
+                        During this time, I have worked on various personal and course projects with various technologies alone or with some of my friends.<br/>
                     </p>
                 </div>
             </div>
